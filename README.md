@@ -12,14 +12,14 @@ Ecommerce is a website that allow you to shop. This is MERN (Mongodb, Express, R
 ```node index.js``` in Folder
 
 ## Demo
-![First Page](public/Screenshot%20(10).png)
+![First Page](Screenshot%20(10).png)
 
-![First Page](public/Screenshot%20(13).png)
+![First Page](Screenshot%20(13).png)
 
-![First Page](public/Screenshot%20(15).png)
+![First Page](Screenshot%20(15).png)
 
-![First Page](public/Screenshot%20(16).png)
+![First Page](Screenshot%20(16).png)
 
-![First Page](public/Screenshot%20(18).png)
+![First Page](Screenshot%20(18).png)
 
-![First Page](public/Screenshot%20(17).png)
+![First Page](Screenshot%20(17).png)
