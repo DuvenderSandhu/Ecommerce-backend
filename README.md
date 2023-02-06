@@ -1,4 +1,4 @@
-:teacher: # Ecommerce Website 
+# Ecommerce Website 
 Ecommerce is a website that allow you to shop. This is MERN (Mongodb, Express, React, NodeJs) Application. It Allow you to signup or login, add to cart and take you to payment page.
 # Git Repository
 
