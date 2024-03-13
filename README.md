@@ -28,7 +28,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install express,bcryptjs,mongoose,express-validator,jsonwebtoken,cors
+  npm install express bcryptjs mongoose express-validator jsonwebtoken cors
 ```
 
 Start the server
